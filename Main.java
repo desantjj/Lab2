@@ -24,7 +24,7 @@ class Main {
 
     if (blue > brown && red > orange)
     System.out.println("Blue over Brown and Red over Orange");
-
+    
     if (brown <= green)
     System.out.println("Brown is less than or equal to Green");
 
